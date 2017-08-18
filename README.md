@@ -13,7 +13,7 @@
 ## Attributes
 <table>
     <tr>
-        <td>timeSize</td>
-        <td>123</td>
+        <td> **name **</td>
+        <td> **format**</td>
     </tr>
 </table>
