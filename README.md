@@ -13,6 +13,7 @@
 ## Attributes
 <table>
     <tr>
-        <td>Foo</td>
-    </tr>
+        <td>timeSize</td>
+        <td>123</td>
+    </tr>
 </table>
