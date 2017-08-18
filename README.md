@@ -29,5 +29,29 @@
         <td>color</td>
         <td>底部时间颜色</td>
         <td>Color.BLACK</td>
+    </tr>    
+    <tr>
+        <td>sensorColor</td>
+        <td>color</td>
+        <td>折线颜色</td>
+        <td>Color.GRAY</td>
+    </tr>
+    <tr>
+        <td>sensorSize</td>
+        <td>integer</td>
+        <td>折线size</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>lineColor</td>
+        <td>color</td>
+        <td>底部横线颜色</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>lineSize</td>
+        <td>color</td>
+        <td>底部横线size</td>
+        <td>3</td>
     </tr>
 </table>
