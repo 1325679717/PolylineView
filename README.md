@@ -14,8 +14,14 @@
 <table>
     <tr>
         <td> name</td>
-        <td> **format**</td>
+        <td> format</td>
         <td>description</td>
         <td>default_value</td>
+    </tr>
+    <tr>
+        <td>timeSize</td>
+        <td>integer</td>
+        <td>底部时间字号</td>
+        <td>39</td>
     </tr>
 </table>
