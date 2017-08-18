@@ -13,7 +13,9 @@
 ## Attributes
 <table>
     <tr>
-        <td> **name**</td>
+        <td> name</td>
         <td> **format**</td>
+        <td>description</td>
+        <td>default_value</td>
     </tr>
 </table>
