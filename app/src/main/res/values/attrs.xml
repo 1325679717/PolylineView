@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PolylineView">
+        <attr name="timeSize" format="integer" />
+        <attr name="timeColor" format="color"/>
+        <attr name="sensorColor" format="color"/>
+        <attr name="sensorSize" format="integer"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="lineSize" format="integer"/>
+    </declare-styleable>
+</resources>
