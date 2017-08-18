@@ -13,7 +13,7 @@
 ## Attributes
 <table>
     <tr>
-        <td> *name *</td>
-        <td> *format*</td>
+        <td> **name**</td>
+        <td> **format**</td>
     </tr>
 </table>
