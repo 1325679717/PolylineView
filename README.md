@@ -24,4 +24,11 @@
         <td>底部时间字号</td>
         <td>39</td>
     </tr>
+    
+    <tr>
+        <td>timeColor</td>
+        <td>color</td>
+        <td>底部时间颜色</td>
+        <td>Color.BLACK</td>
+    </tr>
 </table>
