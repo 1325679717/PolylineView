@@ -1,2 +1,2 @@
-# PolylineView
-天气折线图，icon会随着移动产生视差效果
+Preview
+![image](https://github.com/1325679717/PolylineView/blob/master/gif/polyline.gif) 
